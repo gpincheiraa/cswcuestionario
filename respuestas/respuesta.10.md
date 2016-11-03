@@ -9,7 +9,9 @@ function foo (bar) {
 
 // ES6
 const foo = (bar = "default") => bar;
-
+```
+-----------------------------
+```javascript
 // JS
 var obj = {
   name: "Josefa",
@@ -34,7 +36,9 @@ var obj = {
 
 var friends = ["Pepa", "Pepe", "Pepo"];
 obj.logHello(friends);
-
+```
+-----------------------------
+```javascript
 // JS
 var obj1 = { uno: 1, dos: 2};
 var obj2 = {tres: 3, cuatro: 4};
@@ -52,6 +56,9 @@ var obj2 = {tres: 3, cuatro: 4};
 var obj3 = {cinco: 5, seis: 6};
 var allObjs = Object.assign(obj1,obj2,obj3);
 
+```
+-----------------------------
+```javascript
 // JS
 function buildSquareInvader(options) {
   var colors = {
@@ -87,7 +94,9 @@ const buildSquareInvader = (options) => {
     size: width * height,
   };
 }
-
+```
+-----------------------------
+```javascript
 // JS
 var a = [1, 2, 3];
 var b = [4, 5, 6];

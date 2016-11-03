@@ -12,7 +12,7 @@ console.log(gen1()); // prints 3
 console.log(gen2()); // prints 3
 ```
 
-**Respuesta**:
+**Respuesta**: [Ejemplo funcionando](https://jsbin.com/hutova/edit?js,console)
 
 ```
 const idGenerator = () => {

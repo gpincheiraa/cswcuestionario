@@ -24,7 +24,7 @@ ya ha ejecutado todo, por lo que el for tambien ya fue ejecutado. La variable n 
 y ahi rompió el ciclo. Para cuando setTimeout se ejecuta, gracias al closure que se forma, 
 puede acceder al valor de n, siendo este 0 para ese entonces. 
 
-**Fixing**:
+**Fixing**: [Ejemplo funcionando](https://jsbin.com/zemonicaye/edit?js,console)
 
 ```
 function doRegressiveCountAndLaunch(launchingFunction, maxCount) {

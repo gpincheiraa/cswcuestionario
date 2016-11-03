@@ -1,6 +1,6 @@
 10. Convierta el siguiente código usando ES6:
 
-```
+```javascript
 // JS
 function foo (bar) { 
   var zee = ("undefined" !== typeof bar) ? bar : "default"; 

@@ -5,7 +5,7 @@ console.log(sum(2, 3)); // result is 5
 console.log(sum(2)(3)); // also 5
 ```
 
-####Respuesta:
+####Respuesta: [Ejemplo funcionando](https://jsbin.com/tehisob/edit?js,console)
 
 ```
 const sum = (a, b) => {

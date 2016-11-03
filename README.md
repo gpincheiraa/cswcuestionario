@@ -17,3 +17,5 @@ Las respuestas se encuentran en archivos separados en la carpeta respuestas
 
 
 Para algunas respuestas, me apoyé en documentación oficial, sobre todo para la ultima, la referencia de la ayuda esta en cada respuesta. 
+
+Algunos ejercicios tienen un ejemplo funcionando en JSBin para que sea mas facil revisar.
